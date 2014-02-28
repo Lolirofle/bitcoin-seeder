@@ -1,7 +1,7 @@
-bitcoin-seeder
+toakrona-dns-seed
 ==============
 
-Bitcoin-seeder is a crawler for the Bitcoin network, which exposes a list
+toakrona-dns-seed is a crawler for the Toakrona network, which exposes a list
 of reliable nodes via a built-in DNS server.
 
 Features:
